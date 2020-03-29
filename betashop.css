@@ -1,0 +1,33 @@
+html,body
+{
+	height:100%;
+}
+#suivre a
+{
+	text-decoration:none;
+	color:white;
+}
+#produits div,#produit div
+{
+	background-color:hsla(180,20%,10%,0.1);
+}
+[class*="note"]{margin-top:10px;}
+
+.col-xs-3
+{
+	width:23.125%;
+	margin-left:1.5%;
+	margin-bottom:5%;
+	height:300px;
+} 
+.col-xs-9
+{
+	width:97%;
+	height:300px;
+	margin-left:1.5%;
+}
+[class*="active"]{background-color:hsla(180,20%,20%,0.1);
+border-radius:0 0 20px 0;}
+}
+
+
